@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<application xmlns="http://ns.adobe.com/air/application/1.5.1">
+    <id>com.adobe.bridge.HTMLHarness</id>
+    <version>1.0</version>
+    <filename>HTMLHarness</filename>
+    <initialWindow>
+		<content>HTMLHarness.swf</content>
+    </initialWindow>
+</application>

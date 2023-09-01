@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns="http://www.adobe.com/2009/sm" version="399">
+<locale name="cs_CZ">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="da_DK">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="de_DE">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_AE">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_CE">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_GB">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_IL">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_IE">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_ME">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="en_US">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+	<entry name="Facebook_Upload" version="399" url="./zxp/Facebook_Upload.zxp" />
+	<entry name="Flickr_Upload" version="399" url="./zxp/Flickr_Upload.zxp" />
+	<entry name="Photoshop.com_Upload" version="399" url="./zxp/Photoshop.com_Upload.zxp" />
+	<entry name="SmugMug_Upload" version="-2" url="./zxp/SmugMug_Upload.zxp" />
+</locale>
+<locale name="es_ES">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="es_MX">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="fi_FI">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="fr_CA">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+	<entry name="Facebook_Upload" version="399" url="./zxp/Facebook_Upload.zxp" />
+	<entry name="Flickr_Upload" version="399" url="./zxp/Flickr_Upload.zxp" />
+	<entry name="Photoshop.com_Upload" version="399" url="./zxp/Photoshop.com_Upload.zxp" />
+	<entry name="SmugMug_Upload" version="-2" url="./zxp/SmugMug_Upload.zxp" />
+</locale>
+<locale name="fr_FR">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="fr_MA">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="hu_HU">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="it_IT">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="ja_JP">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="ko_KR">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="nb_NO">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="nl_NL">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="pl_PL">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="pt_BR">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="pt_PT">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="ru_RU">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="sv_SE">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="tr_TR">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="uk_UA">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="zh_CN">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+<locale name="zh_TW">
+	<entry name="Computer_Upload" version="399" url="./zxp/Computer_Upload.zxp" />
+</locale>
+</manifest>
